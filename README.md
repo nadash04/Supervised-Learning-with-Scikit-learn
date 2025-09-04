@@ -42,3 +42,8 @@ Tasks
 1. Install the required libraries:
    bash
    pip install pandas numpy scikit-learn matplotlib seaborn
+   
+2. Run the Python scripts for each dataset:
+        python boston_regression.py
+        python iris_classification.py
+
